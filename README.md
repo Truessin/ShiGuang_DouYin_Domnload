@@ -2,7 +2,7 @@
 
 一个在本地运行的 Windows 桌面工具：粘贴抖音分享文字，保存单个作品的**视频**或**整组图集**。图集按原顺序完整保存，优先使用页面提供的无平台水印图片源；视频优先选择最高分辨率与码率。不经过第三方代解析网站，不做涂抹、裁切或二次压缩。
 
-[![CI](https://github.com/Truessin/shiguang-downloader/actions/workflows/ci.yml/badge.svg)](https://github.com/Truessin/shiguang-downloader/actions/workflows/ci.yml)
+
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D4.svg)](#系统要求)
